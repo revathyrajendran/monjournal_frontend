@@ -1,2 +1,2 @@
-const BASEURL = "https://monjournal-server.onrender.com/"
+const BASEURL = "https://monjournal-server.onrender.com"
 export default BASEURL
