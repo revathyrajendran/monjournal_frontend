@@ -1,0 +1,30 @@
+#title1{
+    color: rgb(15, 179, 220);
+}
+#title2{
+    color: rgb(25, 28, 212)
+}
+.navlink{
+    text-decoration: none;
+    font-weight: 800;
+    font-size: medium;
+    color: black;
+}
+.navlink:hover{
+    color: rgb(25, 28, 212) ;
+    text-decoration: wavy;
+}
+#navmain{
+    background-image: linear-gradient(to right, rgb(229, 51, 81) , rgb(114, 22, 114));
+}
+#footer{
+    background-image: linear-gradient(to right, rgb(114, 22, 114), rgb(229, 51, 81)   );
+}
+.login{
+    background-image: linear-gradient(to top, rgb(229, 51, 81), rgb(114, 22, 114));
+}
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* ✅ Prevent horizontal scrollbar */
+}
